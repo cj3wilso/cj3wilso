@@ -7,7 +7,7 @@
   <a href="https://www.facebook.com/ChristineJenniferWilson">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
-  <a href="https://wa.me/14162068985">
+  <a href="https://wa.me/14162068985?text=I'm%20inquiring%20in%20about%20your%20github%20profile">
     <img src="https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp&logoColor=green" alt="WhatsApp Badge"/>
   </a>
 </div>
